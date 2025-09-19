@@ -3,7 +3,7 @@
 A simple Python-based guessing game where players try to guess a randomly generated number within a spcified range.
 
 ## How to play
-1. Set the range, by entering he desired lower and upper limit
+1. Set the range, by entering the desired lower and upper limit
 2. Try to guess the number
 3. The game will let you know if the number is too high or too low
 4. See how many attempts it took and try to beat your best score
