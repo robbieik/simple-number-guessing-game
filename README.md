@@ -11,7 +11,7 @@ A simple Python-based guessing game where players try to guess a randomly genera
 
 ## Simple features
 
-- 6 difficulty levels: From 'Very Rasy'(1-10) to 'Are you insane?'(1-1.000.000) + custom ranges
+- 6 difficulty levels: From 'Very Easy'(1-10) to 'Are you insane?'(1-1.000.000) + custom ranges
 - Input Validation
 - Score tracking
 - Multiple Rounds
